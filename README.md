@@ -57,3 +57,40 @@ India's Data Science education space is booming — with every IIT, NIT, and III
 - ✅ Histogram: Fees Distribution
 - ✅ Boxplot: Placement Spread by Institute Type
 - ✅ Word Cloud: Course Themes
+
+---
+## 🔍 Key Insights
+
+- ✅ IIT Madras offers flexible entry (No JEE!) with 65%+ placement
+- ✅ NITs are emerging with strong hybrid options
+- ✅ High-placement courses are not always the most expensive
+- ✅ Word “Analytics” & “AI” dominate in course names
+
+---
+
+## 💡 How to Run This Project
+
+1. Clone or download the repo
+2. Import DS_comparison.sql into MySQL Workbench
+3. Load SQL_DS.csv into Power BI
+4. Or directly open the .pbit Power BI dashboard file
+
+---
+
+## 🧾 Future Plans
+
+- 🔄 Add more private universities (e.g., ISB, Amity, UpGrad)
+- 🤖 Use web scraping to automate data collection
+- 🌐 Deploy to Power BI Web (Public)
+
+---
+
+## 👩‍💻 Author
+
+*Banani Mallick*  
+Connect on [LinkedIn](https://www.linkedin.com/in/shamayita-datta/)  
+✨ Built as part of my portfolio to showcase real-world education analytics using SQL + BI
+
+---
+
+## 📅 Created: October 2025 | License: MIT
