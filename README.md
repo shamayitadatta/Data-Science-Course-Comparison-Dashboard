@@ -34,9 +34,10 @@ India's Data Science education space is booming — with every IIT, NIT, and III
 ## 📸 Dashboard Preview
 > 🧠 *Built in Power BI using real Indian education data.*
 
-![Dashboard Screenshot](Visualizing%20India's%20Data%20Science%20Pathways.jpg)
+
 
 ---
+![Visualizing India’s Data Science Pathways](https://github.com/user-attachments/assets/efb28955-5644-4693-8826-3c5caaaa1c38)
 
 ## 🔍 What the Dashboard Shows
 ✅ Compare 11+ real programs across:
